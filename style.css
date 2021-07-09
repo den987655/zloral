@@ -108,7 +108,7 @@ header__font {
     padding-left: 110px;
 }
 .header__bg {
-    background-image: url(/img/bg-header.png);
+    background-image: url(img/bg-header.png);
     width: 1240px;
     height: 350px;
     display: flex;
